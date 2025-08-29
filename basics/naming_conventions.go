@@ -14,7 +14,7 @@ type EmployeeApple struct {
 	Age       int
 }
 
-func main() {
+func meen() {
 	// PascalCase
 	// Struct, interfaces, enums
 	// CalcualteArea, UserInfo, NewHTTPRequest

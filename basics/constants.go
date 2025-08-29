@@ -3,7 +3,7 @@ package basics
 const PI = 3.14
 const GRAVITY = 9.81
 
-func main() {
+func constants_main() {
 	const DAYS int = 7
 
 	const (

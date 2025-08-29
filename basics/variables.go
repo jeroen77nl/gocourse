@@ -4,7 +4,7 @@ import "fmt"
 
 var naam = "Super"
 
-func main() {
+func variables_main() {
 	fmt.Println("Hello, World!")
 	fmt.Println(naam)
 

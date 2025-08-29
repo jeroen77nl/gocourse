@@ -1,11 +1,11 @@
-package basic
+package basics
 
 import (
 	"fmt"
 	"math"
 )
 
-func main() {
+func operators_main() {
 	const p float64 = 22 / 7
 	fmt.Println(p)
 
